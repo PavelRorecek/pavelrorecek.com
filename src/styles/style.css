@@ -47,19 +47,24 @@ section {
     gap: 3rem;
 }
 
+.greeting {
+    padding-left: 1rem;
+}
+
 .name {
     color: #fff;
     font-weight: bold;
+    padding-left: 1rem;
 }
 
 .android {
     color: #00DE7A;
+    padding-left: 1rem;
 }
 
 .links {
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
 }
 
 .links img {
