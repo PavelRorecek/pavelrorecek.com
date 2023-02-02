@@ -1,0 +1,8 @@
+title: Pavel Roreček
+url: "https://pavelrorecek.com/"
+
+theme: minima
+minima:
+  skin: dark
+plugins:
+  - jekyll-feed
