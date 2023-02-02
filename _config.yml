@@ -1,7 +1,7 @@
 title: Pavel Roreček
 url: "https://pavelrorecek.com/"
 
-theme: minima
+remote_theme: jekyll/minima
 minima:
   skin: dark
 plugins:
