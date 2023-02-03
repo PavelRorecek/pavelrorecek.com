@@ -263,6 +263,7 @@ DEPENDENCIES
   github-pages (~> 227)
   jekyll-feed (~> 0.12)
   jekyll-remote-theme
+  jekyll-sitemap
   minima!
 
 BUNDLED WITH
